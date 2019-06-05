@@ -258,3 +258,10 @@ nip                  0.489294             0.000200
 titanic              0.707552             0.002185
 texture              0.998604             0.000011
 mushroom             0.934145             0.000580
+
+
+--------
+
+UPU: with true class prior, using AUC model selection scoring function,  NO update.
+
+
