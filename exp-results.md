@@ -28,7 +28,7 @@ std: 7.262484341886853e-10
 
 
 -----------
-UPU: with true class prior, default model selection scoring function,  NO update.
+## UPU: Bagging, with true class prior, default model selection scoring function,  NO update.
 
 ============================================================1
 sat                  0.896021             0.097064
@@ -145,7 +145,7 @@ mushroom             0.890258             0.000086
 
 
 -----------
-UPU: with true class prior, using IPM model selection scoring function,  NO update.
+## UPU: Bagging, with true class prior, using IPM model selection scoring function,  NO update.
 ============================================================1
 sat                  0.870280             0.158393
 zhihu                0.743609             0.010439
@@ -262,7 +262,7 @@ mushroom             0.934145             0.000580
 
 --------
 
-UPU: with true class prior, using AUC model selection scoring function,  NO update.
+## UPU: Bagging,  with true class prior, using AUC model selection scoring function,  NO update.
 ============================================================1
 sat                  0.867061             0.061861
 zhihu                0.742183             0.013967
@@ -376,3 +376,4 @@ titanic              0.705203             0.002476
 texture              0.998591             0.000018
 mushroom             0.937248             0.000136
 
+## UPU: without Bagging,  with true class prior, using AUC model selection scoring function,  NO update.
