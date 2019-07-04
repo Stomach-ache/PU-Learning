@@ -1,5 +1,6 @@
 | Year       | Conference/Journal       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
+|2003 | ICDM | [Building text classifiers using positive and unlabeled examples](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.7081&rep=rep1&type=pdf) |
 |2008 | KDD  | [Learning Classifiers from Only Positive and Unlabeled Data](http://cseweb.ucsd.edu/~elkan/posonly.pdf) |
 |2014 | NIPS | [Analysis of Learning from Positive and Unlabeled Data](http://www.ms.k.u-tokyo.ac.jp/2014/NIPS2014b.pdf) | Theorical study, by Gang Niu |
 |2015 | Arxiv| [Assessing Binary Classifiers Using Only Positive and Unlabeled Data](https://arxiv.org/pdf/1504.06837.pdf) | 
