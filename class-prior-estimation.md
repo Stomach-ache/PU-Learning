@@ -1,6 +1,3 @@
-
-
-
 # Class-prior Estimation
 
 + 20190502, AAAI-18, [Estimating the Class Prior in Positive and Unlabeled Data through Decision Tree Induction](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16776/16539)
