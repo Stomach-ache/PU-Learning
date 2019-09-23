@@ -8,4 +8,6 @@
 |2017 | AAAI | [Recovering True Classifier Performance in Positive-Unlabeled Learning](https://www.ccs.neu.edu/home/radivojac/papers/jain_aaai_2017.pdf) | for non-traditional classifier only |
 |2017 | NIPS | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://niug1984.github.io/paper/kiryo_nips17.pdf) | by Gang Niu |
 |2019           | MLJ  | [Principled analytic classifier for positive-unlabeled learning via weighted integral probability metric](https://arxiv.org/pdf/1901.09503.pdf) | [Code](https://github.com/eraser347/WMMD_PU), Unbiased Metric |
+|2019     | ICML | [Classification from Positive, Unlabeled and Biased Negative Data](http://proceedings.mlr.press/v97/hsieh19c/hsieh19c.pdf) | by Gang Niu |
+|2019 | ICML | [Complementary-Label Learning for Arbitrary Losses and Models](http://proceedings.mlr.press/v97/ishida19a/ishida19a.pdf) | by Gang Niu |
 
