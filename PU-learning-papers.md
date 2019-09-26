@@ -10,4 +10,5 @@
 |2019           | MLJ  | [Principled analytic classifier for positive-unlabeled learning via weighted integral probability metric](https://arxiv.org/pdf/1901.09503.pdf) | [Code](https://github.com/eraser347/WMMD_PU), Unbiased Metric |
 |2019     | ICML | [Classification from Positive, Unlabeled and Biased Negative Data](http://proceedings.mlr.press/v97/hsieh19c/hsieh19c.pdf) | by Gang Niu |
 |2019 | ICML | [Complementary-Label Learning for Arbitrary Losses and Models](http://proceedings.mlr.press/v97/ishida19a/ishida19a.pdf) | by Gang Niu |
+|2019 | Neurips| [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/pdf/1909.09757.pdf) | by Huawei, this paper leverages PU learning to obtain more ``positive data`` from the cloud |
 
