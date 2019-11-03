@@ -11,4 +11,5 @@
 |2019     | ICML | [Classification from Positive, Unlabeled and Biased Negative Data](http://proceedings.mlr.press/v97/hsieh19c/hsieh19c.pdf) | by Gang Niu |
 |2019 | ICML | [Complementary-Label Learning for Arbitrary Losses and Models](http://proceedings.mlr.press/v97/ishida19a/ishida19a.pdf) | by Gang Niu |
 |2019 | Neurips| [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/pdf/1909.09757.pdf) | by Huawei, this paper leverages PU learning to obtain more ``positive data`` from the cloud |
+|2019 | TPAMI | [Loss Decomposition and Centroid Estimation for Positive and Unlabeled Learning](https://www.ijcai.org/proceedings/2018/0373.pdf) | IJCAI-18 |
 
