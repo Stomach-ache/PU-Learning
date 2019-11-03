@@ -13,4 +13,4 @@
 |2019 | Neurips| [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/pdf/1909.09757.pdf) | by Huawei, this paper leverages PU learning to obtain more ``positive data`` from the cloud |
 |2019 | TPAMI | [Loss Decomposition and Centroid Estimation for Positive and Unlabeled Learning](https://www.ijcai.org/proceedings/2018/0373.pdf) | IJCAI-18 |
 |2019 | IJCAI | [Positive and Unlabeled Learning with Label Disambiguation](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
-
+|2019 | IJCAI | [Generative Adversarial Positive-Unlabelled Learning](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
