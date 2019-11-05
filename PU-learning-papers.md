@@ -5,6 +5,7 @@
 |2014 | Neurips | [Analysis of Learning from Positive and Unlabeled Data](http://www.ms.k.u-tokyo.ac.jp/2014/NIPS2014b.pdf) | Theorical study, by Gang Niu |
 |2015 | Arxiv| [Assessing Binary Classifiers Using Only Positive and Unlabeled Data](https://arxiv.org/pdf/1504.06837.pdf) | 
 |2015 | ICML | [Convex Formulation for Learning from Positive and Unlabeled Data](http://www.mcduplessis.com/wp-content/uploads/2016/05/Conf-ICML2015-ConvexPU.pdf) | Unbiased Loss with class prior known, by Gang Niu |
+|2015 | ICML | [http://proceedings.mlr.press/v37/hsiehb15.pdf](http://proceedings.mlr.press/v37/hsiehb15.pdf) | |
 |2016 | NeurIPS | [Theoretical Comparisons of Positive-Unlabeled Learning against Positive-Negative Learning](https://niug1984.github.io/paper/niu_nips16.pdf) | by Gang Niu|
 |2017 | CCS | [Positive and unlabeled learning for detecting software functional clones with adversarial training](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ccs17poster.pdf) | |
 |2017 | AAAI | [Recovering True Classifier Performance in Positive-Unlabeled Learning](https://www.ccs.neu.edu/home/radivojac/papers/jain_aaai_2017.pdf) | for non-traditional classifier only |
