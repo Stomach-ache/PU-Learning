@@ -1,4 +1,4 @@
-| Year       | Conference/Journal       | Title  | Remark
+| Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2003 | ICDM | [Building text classifiers using positive and unlabeled examples](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.7081&rep=rep1&type=pdf) |
 |2008 | KDD  | [Learning Classifiers from Only Positive and Unlabeled Data](http://cseweb.ucsd.edu/~elkan/posonly.pdf) |
