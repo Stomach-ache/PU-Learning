@@ -20,3 +20,5 @@
 |2019 | IJCAI | [Positive and Unlabeled Learning with Label Disambiguation](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
 |2019 | IJCAI | [Generative Adversarial Positive-Unlabelled Learning](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
 |2019 | Arxiv | [Revisiting sample selection approach to positive-unlabeled learning: Turning unlabeled data into positive rather than negative](https://arxiv.org/abs/1901.10155) | |
+|2019 | ICLR submission | [Learning from Positive and Unlabeled Data with Adversarial Training](https://openreview.net/forum?id=HygPjlrYvB) | also a NIPS'19 submission |
+|2019 | arXiv | [Discriminative adversarial networks for positive-unlabeled learning](https://arxiv.org/pdf/1906.00642.pdf) | |
