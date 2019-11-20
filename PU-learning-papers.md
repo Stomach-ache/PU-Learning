@@ -10,7 +10,7 @@
 |2017 | CCS | [Positive and unlabeled learning for detecting software functional clones with adversarial training](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ccs17poster.pdf) | |
 |2017 | AAAI | [Recovering True Classifier Performance in Positive-Unlabeled Learning](https://www.ccs.neu.edu/home/radivojac/papers/jain_aaai_2017.pdf) | for non-traditional classifier only |
 |2017 | ICML | [Semi-supervised classification based on classification from positive and unlabeled data](https://niug1984.github.io/paper/sakai_icml17.pdf) | by Gang Niu |
-|2017 | Neurips | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://niug1984.github.io/paper/kiryo_nips17.pdf) | by Gang Niu |
+|2017 | Neurips | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://niug1984.github.io/paper/kiryo_nips17.pdf) | by Gang Niu, [code](https://github.com/kiryor/nnPUlearning) |
 |2018 | IJCAI | [Positive and unlabeled learning for detecting software functional clones with adversarial training](http://www.lamda.nju.edu.cn/lim/publications/ijcai18-cdpu.pdf) | |
 |2019           | MLJ  | [Principled analytic classifier for positive-unlabeled learning via weighted integral probability metric](https://arxiv.org/pdf/1901.09503.pdf) | [Code](https://github.com/eraser347/WMMD_PU), Unbiased Metric |
 |2019     | ICML | [Classification from Positive, Unlabeled and Biased Negative Data](http://proceedings.mlr.press/v97/hsieh19c/hsieh19c.pdf) | by Gang Niu |
