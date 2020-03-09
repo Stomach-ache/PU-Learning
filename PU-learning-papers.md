@@ -22,5 +22,6 @@
 |2019 | Arxiv | [Revisiting sample selection approach to positive-unlabeled learning: Turning unlabeled data into positive rather than negative](https://arxiv.org/abs/1901.10155) | |
 |2019 | arXiv | [Discriminative adversarial networks for positive-unlabeled learning](https://arxiv.org/pdf/1906.00642.pdf) | |
 |2019 | Arxiv | [DEDPUL: Difference-of-Estimated-Densities-based Positive-Unlabeled Learning](https://arxiv.org/pdf/1902.06965.pdf) | [code](https://github.com/dimonenka/DEDPUL) |
-|2020 | ICLR submission | [Learning from Positive and Unlabeled Data with Adversarial Training](https://openreview.net/forum?id=S1lxKlSKPH) | also a NIPS'19 submission |
+[2019 | ICLR | [LEARNING FROM POSITIVE AND UNLABELED DATA WITH A SELECTION BIAS](https://openreview.net/pdf?id=rJzLciCqKm) | |
+|2020 | ICLR submission | [Learning from Positive and Unlabeled Data with Adversarial Training](https://openreview.net/forum?id=S1lxKlSKPH) |  |
 
