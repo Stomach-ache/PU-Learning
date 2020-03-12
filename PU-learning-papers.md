@@ -12,6 +12,7 @@
 |2017 | ICML | [Semi-supervised classification based on classification from positive and unlabeled data](https://niug1984.github.io/paper/sakai_icml17.pdf) | by Gang Niu |
 |2017 | Neurips | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://niug1984.github.io/paper/kiryo_nips17.pdf) | by Gang Niu, [code](https://github.com/kiryor/nnPUlearning) |
 |2018 | IJCAI | [Positive and unlabeled learning for detecting software functional clones with adversarial training](http://www.lamda.nju.edu.cn/lim/publications/ijcai18-cdpu.pdf) | |
+|2018 | arXiv | [Learning From Positive and Unlabeled Data: A Survey](https://arxiv.org/pdf/1811.04820.pdf) | |
 |2019           | MLJ  | [Principled analytic classifier for positive-unlabeled learning via weighted integral probability metric](https://arxiv.org/pdf/1901.09503.pdf) | [Code](https://github.com/eraser347/WMMD_PU), Unbiased Metric |
 |2019     | ICML | [Classification from Positive, Unlabeled and Biased Negative Data](http://proceedings.mlr.press/v97/hsieh19c/hsieh19c.pdf) | by Gang Niu |
 |2019 | ICML | [Complementary-Label Learning for Arbitrary Losses and Models](http://proceedings.mlr.press/v97/ishida19a/ishida19a.pdf) | by Gang Niu |
@@ -19,7 +20,7 @@
 |2019 | TPAMI | [Loss Decomposition and Centroid Estimation for Positive and Unlabeled Learning](https://www.ijcai.org/proceedings/2018/0373.pdf) | IJCAI-18 |
 |2019 | IJCAI | [Positive and Unlabeled Learning with Label Disambiguation](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
 |2019 | IJCAI | [Generative Adversarial Positive-Unlabelled Learning](https://www.ijcai.org/proceedings/2019/0590.pdf) | |
-|2019 | Arxiv | [Revisiting sample selection approach to positive-unlabeled learning: Turning unlabeled data into positive rather than negative](https://arxiv.org/abs/1901.10155) | |
+|2019 | arXiv | [Revisiting sample selection approach to positive-unlabeled learning: Turning unlabeled data into positive rather than negative](https://arxiv.org/abs/1901.10155) | |
 |2019 | arXiv | [Discriminative adversarial networks for positive-unlabeled learning](https://arxiv.org/pdf/1906.00642.pdf) | |
 |2019 | Arxiv | [DEDPUL: Difference-of-Estimated-Densities-based Positive-Unlabeled Learning](https://arxiv.org/pdf/1902.06965.pdf) | [code](https://github.com/dimonenka/DEDPUL) |
 |2019 | ICLR | [LEARNING FROM POSITIVE AND UNLABELED DATA WITH A SELECTION BIAS](https://openreview.net/pdf?id=rJzLciCqKm) | |
